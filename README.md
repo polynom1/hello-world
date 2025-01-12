@@ -1,5 +1,5 @@
 # hello-world
 Cansun 
 
-git checkout <hello-world>
-git revert <hello-world>
+git checkout <main>
+git revert <main>
